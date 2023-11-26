@@ -27,7 +27,7 @@ Sobald der Code des Entwicklers ordnungsgemäss funktioniert, kann er diesen Cod
 Alle diese Änderungen werden dann verfolgt und können bei Bedarf rückgängig gemacht werden.
 
 <seealso>
-    <category ref="useful">
+    <category ref="weitere">
         <a href="https://github.com/">GitHub</a>
         <a href="https://docs.github.com/de">GitHub Documentation</a>
     </category>
