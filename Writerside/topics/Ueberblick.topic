@@ -35,7 +35,7 @@
             <a href="https://github.com/" summary="Die offizielle GitHub-Seite">GitHub</a>
         </primary>
         <secondary>
-            <title></title>
+            <title>Tutorials und Referenzen</title>
             <a href="https://www.youtube.com/watch?v=tRZGeaHPoaw"
                summary="Dieses YouTube-Video befasst sich mit allen wichtigen Commands">Youtube - Git Tutorial</a>
             <a href="https://git-scm.com/docs" summary="Die offizielle Git Referenz">Git Reference</a>
