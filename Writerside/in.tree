@@ -3,7 +3,7 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="in"
-                  name="Git und GitHub" start-page="Git.md">
+                  name="Git und GitHub" start-page="Ueberblick.topic">
 
     <toc-element topic="Ueberblick.topic"/>
     <toc-element topic="Git.md"/>
