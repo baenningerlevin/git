@@ -140,8 +140,8 @@ git mv <old filename> <new filename>
 <!-- TODO - Make progress in Youtube Tutorial -->
 
 <seealso>
-    <category ref="useful">
-        <a href="https://git-scm.com/">Git</a>
-        <a href="https://www.youtube.com/watch?v=tRZGeaHPoaw">Git Tutorial</a>
+    <category ref="weitere">
+        <a href="https://git-scm.com/">Git - Offizielle Webseite</a>
+        <a href="https://www.youtube.com/watch?v=tRZGeaHPoaw">Youtube - Tutorial</a>
     </category>
 </seealso>
